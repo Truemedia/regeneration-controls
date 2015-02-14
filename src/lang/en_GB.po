@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-02-14 19:44-0000\n"
+"PO-Revision-Date: 2015-02-14 19:46-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../public/templates/src/modal.hbs:6
+msgid "Controls"
+msgstr "Controls"
+
+#: ../../public/templates/src/modal.hbs:9
+msgid "Manage Controls"
+msgstr "Manage Controls"
+
+#: ../../public/templates/src/modal.hbs:38
+msgid "Screens"
+msgstr "Screens"
+
+#: ../../public/templates/src/modal.hbs:41
+msgid "Player"
+msgstr "Player"
+
+#: ../../public/templates/src/modal.hbs:44
+msgid "Weapons"
+msgstr "Weapons"
+
+#: ../../public/templates/src/modal.hbs:53
+#: ../../public/templates/src/modal.hbs:57
+#: ../../public/templates/src/modal.hbs:83
+#: ../../public/templates/src/modal.hbs:98
+#: ../../public/templates/src/modal.hbs:108
+#: ../../public/templates/src/modal.hbs:117
+#: ../../public/templates/src/modal.hbs:122
+#: ../../public/templates/src/modal.hbs:127
+#: ../../public/templates/src/modal.hbs:132
+msgid "Press"
+msgstr "Press"
+
+#: ../../public/templates/src/modal.hbs:54
+msgid "to toggle points"
+msgstr "to toggle points"
+
+#: ../../public/templates/src/modal.hbs:58
+msgid "to toggle profile"
+msgstr "to toggle profile"
+
+#: ../../public/templates/src/modal.hbs:67
+#: ../../public/templates/src/modal.hbs:71
+#: ../../public/templates/src/modal.hbs:75
+#: ../../public/templates/src/modal.hbs:79
+msgid "Hold"
+msgstr "Hold"
+
+#: ../../public/templates/src/modal.hbs:68
+msgid "to move up"
+msgstr "to move up"
+
+#: ../../public/templates/src/modal.hbs:72
+msgid "to move left"
+msgstr "to move left"
+
+#: ../../public/templates/src/modal.hbs:76
+msgid "to move down"
+msgstr "to move down"
+
+#: ../../public/templates/src/modal.hbs:80
+msgid "to move right"
+msgstr "to move right"
+
+#: ../../public/templates/src/modal.hbs:84
+msgid "to pickup an item"
+msgstr "to pickup an item"
+
+#: ../../public/templates/src/modal.hbs:94
+#: ../../public/templates/src/modal.hbs:104
+msgid "mouse"
+msgstr "mouse"
+
+#: ../../public/templates/src/modal.hbs:95
+#: ../../public/templates/src/modal.hbs:105
+msgid "OR"
+msgstr "OR"
+
+#: ../../public/templates/src/modal.hbs:99
+msgid "to shoot"
+msgstr "to shoot"
+
+#: ../../public/templates/src/modal.hbs:109
+msgid "to punch"
+msgstr "to punch"
+
+#: ../../public/templates/src/modal.hbs:118
+msgid "to throw away mag"
+msgstr "to throw away mag"
+
+#: ../../public/templates/src/modal.hbs:123
+msgid "to enter new mag"
+msgstr "to enter new mag"
+
+#: ../../public/templates/src/modal.hbs:128
+msgid "to reconnect new mag"
+msgstr "to reconnect new mag"
+
+#: ../../public/templates/src/modal.hbs:133
+msgid "to chamber"
+msgstr "to chamber"
+
+#: ../../public/templates/src/modal.hbs:143
+msgid "Close"
+msgstr "Close"

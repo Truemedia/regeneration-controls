@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-02-14 19:47-0000\n"
+"PO-Revision-Date: 2015-02-14 19:53-0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../public/templates/src/modal.hbs:6
+msgid "Controls"
+msgstr "コントロール"
+
+#: ../../public/templates/src/modal.hbs:9
+msgid "Manage Controls"
+msgstr "コントロールを管理"
+
+#: ../../public/templates/src/modal.hbs:38
+msgid "Screens"
+msgstr "画面"
+
+#: ../../public/templates/src/modal.hbs:41
+msgid "Player"
+msgstr "プレーヤー"
+
+#: ../../public/templates/src/modal.hbs:44
+msgid "Weapons"
+msgstr "兵器"
+
+#: ../../public/templates/src/modal.hbs:53
+#: ../../public/templates/src/modal.hbs:57
+#: ../../public/templates/src/modal.hbs:83
+#: ../../public/templates/src/modal.hbs:98
+#: ../../public/templates/src/modal.hbs:108
+#: ../../public/templates/src/modal.hbs:117
+#: ../../public/templates/src/modal.hbs:122
+#: ../../public/templates/src/modal.hbs:127
+#: ../../public/templates/src/modal.hbs:132
+msgid "Press"
+msgstr "圧す"
+
+#: ../../public/templates/src/modal.hbs:54
+msgid "to toggle points"
+msgstr "ポイントを切り替えることができ"
+
+#: ../../public/templates/src/modal.hbs:58
+msgid "to toggle profile"
+msgstr "プロファイルを切り替えるには"
+
+#: ../../public/templates/src/modal.hbs:67
+#: ../../public/templates/src/modal.hbs:71
+#: ../../public/templates/src/modal.hbs:75
+#: ../../public/templates/src/modal.hbs:79
+msgid "Hold"
+msgstr "保つ"
+
+#: ../../public/templates/src/modal.hbs:68
+msgid "to move up"
+msgstr "上に移動する"
+
+#: ../../public/templates/src/modal.hbs:72
+msgid "to move left"
+msgstr "左に移動する"
+
+#: ../../public/templates/src/modal.hbs:76
+msgid "to move down"
+msgstr "下に移動する"
+
+#: ../../public/templates/src/modal.hbs:80
+msgid "to move right"
+msgstr "右に移動する"
+
+#: ../../public/templates/src/modal.hbs:84
+msgid "to pickup an item"
+msgstr "アイテムを拾うために"
+
+#: ../../public/templates/src/modal.hbs:94
+#: ../../public/templates/src/modal.hbs:104
+msgid "mouse"
+msgstr "コンピューターのマウス"
+
+#: ../../public/templates/src/modal.hbs:95
+#: ../../public/templates/src/modal.hbs:105
+msgid "OR"
+msgstr "または"
+
+#: ../../public/templates/src/modal.hbs:99
+msgid "to shoot"
+msgstr "撮影する"
+
+#: ../../public/templates/src/modal.hbs:109
+msgid "to punch"
+msgstr "穴を開ける"
+
+#: ../../public/templates/src/modal.hbs:118
+msgid "to throw away mag"
+msgstr "雑誌を捨てる"
+
+#: ../../public/templates/src/modal.hbs:123
+msgid "to enter new mag"
+msgstr "新しい雑誌を入力する"
+
+#: ../../public/templates/src/modal.hbs:128
+msgid "to reconnect new mag"
+msgstr "新しい雑誌を再接続する"
+
+#: ../../public/templates/src/modal.hbs:133
+msgid "to chamber"
+msgstr "室へ"
+
+#: ../../public/templates/src/modal.hbs:143
+msgid "Close"
+msgstr "閉じる"
